@@ -19,5 +19,8 @@ Refined regex on new notes on controls:
 
 ## working directory
 smb://fsmresfiles.fsm.northwestern.edu/fsmresfiles/IPHAM/CHIP/Data_Team/Projects/Lupus/YU/NLP/rerun_lupus_validation
+case list:  <\b>
+control list: <\b>
+
 
 
